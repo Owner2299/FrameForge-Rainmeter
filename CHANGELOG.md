@@ -1,4 +1,4 @@
-v5.0.0
+v1.0.0
 - Initial public release
 - Automatic frame detection
 - Alpha transparency support
